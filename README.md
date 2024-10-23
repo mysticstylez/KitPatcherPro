@@ -11,7 +11,7 @@ This was originally designed as a closed environment dev tool for installing and
 
 Dependencies included in this package. If it's an issue then please reach out to me.
 
-This package contains no license. Please do not redistribute modified versions or use for commercial use by itself. You're welcome to use in your projects or commercial game. Thank you.
+This package contains no license and is for personal projects only at the moment - no comemrcial use. See KitPatcher v0.0.6 for commercial use. 
 
 Versions:
 
