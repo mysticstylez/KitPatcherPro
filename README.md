@@ -13,6 +13,8 @@ Dependencies included in this package. If it's an issue then please reach out to
 
 This package contains no license and is for personal projects only at the moment - no comemrcial use. See KitPatcher v0.0.6 for commercial use. 
 
+IF USING UNITY 6, DELETE THE TEXTMESH PRO EXTRAS FOLDER TO FIX OUT OF BOX ERRORS. 
+
 Versions:
 
 KitPatcher Pro v0.0.8a
