@@ -1,7 +1,7 @@
 # KitPatcherPro
 KitPatcher Pro for Unity.
 
-Thank you for beta testing KitPatcher Pro. Please visit the Ghostdog Studio Discord to access support channels.
+Thank you for beta testing KitPatcher Pro. Please visit Discord to access support channels.
 
 https://discord.gg/zqkV9RHjHb
 
